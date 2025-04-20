@@ -1,0 +1,14 @@
+.documents{
+  margin-top: 60px;
+  width: 100%;
+}
+
+.documents-by-user{
+  height: 100%;
+  align-content: center;
+}
+
+.is-valid{
+  top: 0;
+  margin-top: -5px;
+}
