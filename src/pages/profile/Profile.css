@@ -1,0 +1,164 @@
+.profile{
+  width: 100%;
+}
+
+.edit-profile{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.profile-container-edit{
+  width: 50%;
+  min-width: 300px;
+}
+
+
+.photo-edit-user{
+  width: 70px;
+  height: 70px;
+}
+
+.profile-edit-header{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.profile-title,
+.photo-user{
+  width: 100%;
+}
+
+.photo-user{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.separator-inputs{
+  color: transparent;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+  height: 0px;
+  margin-top: -1px;
+}
+
+.edit-user-btn{
+  display: flex;
+  padding: 15px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-edit-user,
+.btn-edit-user-cancel{
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.btn-edit-user{
+  background-color: rgb(12, 31, 130);
+}
+
+.btn-edit-user-cancel{
+  background-color: rgb(95, 6, 6);
+}
+
+.btn-edit-user-cancel:hover{
+  background-color: transparent;
+}
+
+.btn-content-profile{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.btn-edit-user:hover{
+  background-color: transparent;
+}
+
+.menu-icon{
+  width: 25px;
+}
+
+
+/* Profile */
+
+.profile{
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  width: 200px;
+  border-radius: 100%;
+}
+
+.profile-container{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.profile-box{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.profile-content{
+  border: 1px solid gray;
+  padding: 15px;
+}
+
+.profile-photo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-name{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.description-user{
+  width: 100%;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.description-user p{
+  width: 80%;
+}
+
+.profile-right{
+  display: flex;
+  justify-content: start;
+  width: 100%;
+}
+
+.profile-info{
+  width: 100%;
+}

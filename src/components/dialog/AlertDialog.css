@@ -1,0 +1,13 @@
+.form-dialog-buttons{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dialog-btn{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

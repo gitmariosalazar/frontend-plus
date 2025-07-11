@@ -1,0 +1,19 @@
+.status-pending {
+  color: #FFC107;
+}
+
+.status-paid {
+  color: #4CAF50;
+}
+
+.status-overdue {
+  color: #FF5722;
+}
+
+.status-cancelled {
+  color: #9E9E9E;
+}
+
+.status-expired {
+  color: #F44336;
+}
